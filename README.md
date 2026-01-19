@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋 I 'm Juned
 
-<!--
-**Op-Junaid/op-junaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Image](![image](https://github.com/user-attachments/assets/ce2bdfd0-7c09-4cb8-a621-a9facfecd80b)
+)
 
-Here are some ideas to get you started:
+💻 Developer  
+📍 Howrah, India  
+🚀 Learning & building cool stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="profile.png" width="300"/>
+</p>
+
+<h2 align="center">Hi 👋, I'm Manas</h2>
+<p align="center">💻 Developer | 🚀 Learner</p>
+
+
+
+
