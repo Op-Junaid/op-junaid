@@ -12,7 +12,7 @@
   <img src="profile.png" width="300"/>
 </p>
 
-<h2 align="center">Hi 👋, I'm Manas</h2>
+<h2 align="center">Hi 👋, I'm Juned</h2>
 <p align="center">💻 Developer | 🚀 Learner</p>
 
 
